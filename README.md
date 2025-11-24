@@ -1,2 +1,7 @@
-![Sans_titre_1924_20251124204801](https://github.com/user-attachments/assets/a0321030-f992-4d67-b005-f7b2b60ba110)
-![profile views](https://komarev.com/ghpvc/?m4lachite=M4LACHITE&style=for-the-badge)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7dd72d86-1bee-45fc-ad1d-99c3745f888b" alt="banner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Gems-0000-FFA3AC" alt="profile views" />
+</p>
