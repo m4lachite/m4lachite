@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Gems-0000-FFA3AC" alt="profile views" />
+ <img src="https://komarev.com/ghpvc/?username=m4lachite&color=FF9B8C" alt="Gems" />
 </p>
