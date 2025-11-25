@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=m4lachite&color=FF9B8C" alt="Gems" />
+  <img src="https://komarev.com/ghpvc/?username=m4lachite&label=gems&color=FF9B8C" alt="gems" />
 </p>
